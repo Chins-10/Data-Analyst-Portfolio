@@ -5,3 +5,5 @@ My CV in # [Resume_1.docx](https://github.com/Chins-10/Data-Analyst-Portfolio/fi
 This repository serves to showcase my skills, share my projects, and track my progress in Data Analytics topics.
 # Table of contents
 # About
+# Portfolio Projects
+
