@@ -6,10 +6,27 @@ This repository serves to showcase my skills, share my projects, and track my pr
 # Table of contents
 + [About](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#about)
 + Portfolio Projects
-  - A Mobile Game Data Analysis
+  - Decision Making for Mutual Funds: To Sell or Not Sell
   - A Landing Page Design Experiment
   - Credit Card Approval App
-  - Side Projects
++ Course Projects
+  - Data Analysis Course
+  - Learning SQL
+  - Tableau Dashboards
+  - Data Structures & Algorithms in Python
+  - Other Projects repo -->[My Projects](https://github.com/Chins-10/My-projects)
++ Contacts
+# Portfolio Projects
+In this section, I will provide a brief overview of data analytics projects, including the technology stack utilized to address each case.
+# Decision Making for Mutual Funds: To Sell or Not Sell
+Code:[Uploading project_code.ipynb…]()
+Dataset: (https://www.nasdaq.com/market-activity/index/comp/historical)
+Description:
+
+
+
+
+
 
 
 
