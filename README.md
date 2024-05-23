@@ -28,7 +28,14 @@ In this section, I will provide a brief overview of data analytics projects, inc
 + Technology: Python, Pandas, NumPy, Matplotlib.
 + Results: Decision making for mutual funds, conclusion on to sell or not to sell, some of the performance parameters to make the analysis easier.
 # Data Compression: Lossless Versus Lossy
-+ Code: [code]
++ Code: [code](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/p2_code.ipynb)
++ Description:
+  + Performing Huffman coding to the two images respectively, and comparing the coded bits length with their entropy.
+  + Performing Shannon coding to the two images respectively, and comparing the coded bits length with their entropy.
+  + Performing Compressive Sensing to the two images, and plotting the decompressed images with different compression ratio.
++ Results:
+
+
 
 
 
