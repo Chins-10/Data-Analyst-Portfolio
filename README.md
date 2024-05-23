@@ -22,6 +22,11 @@ In this section, I will provide a brief overview of data analytics projects, inc
 + Code:[code](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/project_code.ipynb)
 + Dataset:[data](https://www.nasdaq.com/market-activity/index/comp/historical)
 + Description:
+  + Processing the data and making training dataset and test dataset.
+  + Using that training dataset to design a decision tree based on entropy criteria to make decision, to sell or not to sell. Then using test dataset to evaluate the performance in terms of precision, accuracy, and AUC-ROC curve. Also, displaying the decision tree and exporting IF-THEN rules from the decision tree.
+  + Optimize the decision tree.
++ Technology: Python, Pandas, NumPy, Matplotlib.
++ Results: Decision making for mutual funds, conclusion on to sell or not to sell, some of the performance parameters to make the analysis easier.
 
 
 
