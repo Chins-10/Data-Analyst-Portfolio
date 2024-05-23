@@ -19,7 +19,7 @@ This repository serves to showcase my skills, share my projects, and track my pr
 # Portfolio Projects
 In this section, I will provide a brief overview of data analytics projects, including the technology stack utilized to address each case.
 # Decision Making for Mutual Funds: To Sell or Not Sell
-+ Code:[code](https://colab.research.google.com/drive/1M5SRM4Iox584ncnGf5uk8lCykrREi8vW)
++ Code:[code](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/project_code.ipynb)
 + Dataset:[data](https://www.nasdaq.com/market-activity/index/comp/historical)
 + Description:
 
