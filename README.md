@@ -7,7 +7,7 @@ This repository serves to showcase my skills, share my projects, and track my pr
 + [About](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#about)
 + Portfolio Projects
   - [Decision Making for Mutual Funds: To Sell or Not Sell](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#decision-making-for-mutual-funds-to-sell-or-not-sell)
-  - A Landing Page Design Experiment
+  - Data Compression: Lossless Versus Lossy
   - Credit Card Approval App
 + Course Projects
   - Data Analysis Course
@@ -27,6 +27,8 @@ In this section, I will provide a brief overview of data analytics projects, inc
   + Optimize the decision tree.
 + Technology: Python, Pandas, NumPy, Matplotlib.
 + Results: Decision making for mutual funds, conclusion on to sell or not to sell, some of the performance parameters to make the analysis easier.
+# Data Compression: Lossless Versus Lossy
++ Code: [code]
 
 
 
