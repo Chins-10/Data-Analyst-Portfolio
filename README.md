@@ -6,7 +6,7 @@ This repository serves to showcase my skills, share my projects, and track my pr
 # Table of contents
 + [About](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#about)
 + Portfolio Projects
-  - Decision Making for Mutual Funds: To Sell or Not Sell
+  - [Decision Making for Mutual Funds: To Sell or Not Sell](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#decision-making-for-mutual-funds-to-sell-or-not-sell)
   - A Landing Page Design Experiment
   - Credit Card Approval App
 + Course Projects
@@ -19,8 +19,8 @@ This repository serves to showcase my skills, share my projects, and track my pr
 # Portfolio Projects
 In this section, I will provide a brief overview of data analytics projects, including the technology stack utilized to address each case.
 # Decision Making for Mutual Funds: To Sell or Not Sell
-+ Code:[code](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/project_code.ipynb)
-+ Dataset:[data](https://www.nasdaq.com/market-activity/index/comp/historical)
++ Code: [code](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/project_code.ipynb)
++ Dataset: [data](https://www.nasdaq.com/market-activity/index/comp/historical)
 + Description:
   + Processing the data and making training dataset and test dataset.
   + Using that training dataset to design a decision tree based on entropy criteria to make decision, to sell or not to sell. Then using test dataset to evaluate the performance in terms of precision, accuracy, and AUC-ROC curve. Also, displaying the decision tree and exporting IF-THEN rules from the decision tree.
