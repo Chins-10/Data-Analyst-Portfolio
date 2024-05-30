@@ -11,8 +11,8 @@ This repository serves to showcase my skills, share my projects, and track my pr
 + [Course Projects](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#course-projects)
   - [Data Analysis Course](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#data-analysis-course)
   - [Learning SQL](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#learning-sql)
-  - [Tableau Dashboards]
-  - [Learning R]
+  - [Tableau Dashboards](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#tableau-dashboards)
+  - [Learning R](
   - [Other Projects]
 + Contacts
 # Portfolio Projects
