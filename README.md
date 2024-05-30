@@ -7,7 +7,7 @@ This repository serves to showcase my skills, share my projects, and track my pr
 + [About](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#about)
 + Portfolio Projects
   - [Decision Making for Mutual Funds: To Sell or Not Sell](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#decision-making-for-mutual-funds-to-sell-or-not-sell)
-  - Data Compression: Lossless Versus Lossy
+  - [Data Compression: Lossless Versus Lossy](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#data-compression-lossless-versus-lossy)
 + Course Projects
   - Data Analysis Course
   - Learning SQL
