@@ -10,7 +10,7 @@ This repository serves to showcase my skills, share my projects, and track my pr
   - [Data Compression: Lossless Versus Lossy](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#data-compression-lossless-versus-lossy)
 + [Course Projects](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#course-projects)
   - [Data Analysis Course](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#data-analysis-course)
-  - [Learning SQL]
+  - [Learning SQL](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#learning-sql)
   - [Tableau Dashboards]
   - [Learning R]
   - [Other Projects]
