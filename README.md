@@ -13,7 +13,7 @@ This repository serves to showcase my skills, share my projects, and track my pr
   - [Learning SQL](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#learning-sql)
   - [Tableau Dashboards](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#tableau-dashboards)
   - [Learning R](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#learning-r)
-  - [Other Projects](
+  - [Other Projects](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#other-projects)
 + Contacts
 # Portfolio Projects
 In this section, I will provide a brief overview of data analytics projects, including the technology stack utilized to address each case.
