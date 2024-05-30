@@ -40,7 +40,7 @@ Description: This is a 6 weeks course by [Aptech Staffing](https://www.aptechsta
 Repository: Check the repository having home-tasks and projects of the course --> go to repo
 Status: Completed in April 2023.
 # Learning SQL
-Description: SQL queries for tasks from [Codecadamy](https://www.codecademy.com/learn/learn-sql), [w3schools](https://www.w3schools.com/sql/),,[Aptech Staffing](https://www.aptechstaffing.com/courses/), etc.
+Description: SQL queries for tasks from [Codecadamy](https://www.codecademy.com/learn/learn-sql), [w3schools](https://www.w3schools.com/sql/),[Aptech Staffing](https://www.aptechstaffing.com/courses/), etc.
 Repository: Check the repository having 400+ SQL queries --> go to repo
 Status: Some of the courses are still in progress.
 # Tableau Dashboards: 
