@@ -36,21 +36,21 @@ In this section, I will provide a brief overview of data analytics projects, inc
 # Course Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with code.
 # Data Analysis Course
-Description: This is a 6 weeks course by [Aptech Staffing](https://www.aptechstaffing.com/courses/). The course topics include Introduction to Data Analysis, SQL, Data Visualization using Python, Data Interpretation etc..
-Repository: Check the repository having home-tasks and projects of the course --> go to repo
-Status: Completed in April 2023.
++ Description: This is a 6 weeks course by [Aptech Staffing](https://www.aptechstaffing.com/courses/). The course topics include Introduction to Data Analysis, SQL, Data Visualization using Python, Data Interpretation etc..
++ Repository: Check the repository having home-tasks and projects of the course --> go to repo
++ Status: Completed in April 2023.
 # Learning SQL
-Description: SQL queries for tasks from [Codecadamy](https://www.codecademy.com/learn/learn-sql), [w3schools](https://www.w3schools.com/sql/),[Aptech Staffing](https://www.aptechstaffing.com/courses/), etc.
-Repository: Check the repository having 400+ SQL queries --> go to repo
-Status: Some of the courses are still in progress.
++ Description: SQL queries for tasks from [Codecadamy](https://www.codecademy.com/learn/learn-sql), [w3schools](https://www.w3schools.com/sql/),[Aptech Staffing](https://www.aptechstaffing.com/courses/), etc.
++ Repository: Check the repository having 400+ SQL queries --> go to repo
++ Status: Some of the courses are still in progress.
 # Tableau Dashboards: 
 Some of the dashboards I worked on during my learning --->[go to tableau](https://www.dropbox.com/sh/n65xs2ia2m0t8kq/AAAQXUaAhN0HIG8ypKV884vka?e=1&dl=0)
 # Learning R
-Description: Learning how to code and clean and manipulate data for analysis and visualization with the R programming language from [codecademy](https://www.codecademy.com/enrolled/courses/learn-r)
-Repository: Some of projects of the course --> go to repo
++ Description: Learning how to code and clean and manipulate data for analysis and visualization with the R programming language from [codecademy](https://www.codecademy.com/enrolled/courses/learn-r)
++ Repository: Some of projects of the course --> go to repo
 # Other Projects
-Description: Some of the projects and various code snippets I'm having fun with.
-Repository:---> [go to repo](https://github.com/Chins-10/My-projects)
++ Description: Some of the projects and various code snippets I'm having fun with.
++ Repository:---> [go to repo](https://github.com/Chins-10/My-projects)
 
 
 
