@@ -9,11 +9,11 @@ This repository serves to showcase my skills, share my projects, and track my pr
   - [Decision Making for Mutual Funds: To Sell or Not Sell](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#decision-making-for-mutual-funds-to-sell-or-not-sell)
   - [Data Compression: Lossless Versus Lossy](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#data-compression-lossless-versus-lossy)
 + [Course Projects](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#course-projects)
-  - Data Analysis Course
-  - Learning SQL
-  - Tableau Dashboards
-  - Learning R
-  - Other Projects
+  - [Data Analysis Course](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#data-analysis-course)
+  - [Learning SQL]
+  - [Tableau Dashboards]
+  - [Learning R]
+  - [Other Projects]
 + Contacts
 # Portfolio Projects
 In this section, I will provide a brief overview of data analytics projects, including the technology stack utilized to address each case.
