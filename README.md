@@ -51,7 +51,9 @@ Some of the dashboards I worked on during my learning --->[go to tableau](https:
 # Other Projects
 + Description: Some of the projects and various code snippets I'm having fun with.
 + Repository:---> [go to repo](https://github.com/Chins-10/My-projects)
-
+# Contact
++ LinkedIn --> linkedin.com/in/chinmayee-g-99b220195
++ email --> chinsap05@gmail.com
 
 
 
