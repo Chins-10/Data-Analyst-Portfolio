@@ -37,7 +37,7 @@ In this section, I will provide a brief overview of data analytics projects, inc
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or while just having fun with code.
 # Data Analysis Course
 + Description: This is a 6 weeks course by [Aptech Staffing](https://www.aptechstaffing.com/courses/). The course topics include Introduction to Data Analysis, SQL, Data Visualization using Python, Data Interpretation etc..
-+ Repository: Check the repository having home-tasks and projects of the course --> go to repo
++ Repository: Check the repository having home-tasks and projects of the course --> [go to repo](https://github.com/Chins-10/Data-Analysis-Course)
 + Status: Completed in April 2023.
 # Learning SQL
 + Description: SQL queries for tasks from [Codecadamy](https://www.codecademy.com/learn/learn-sql), [w3schools](https://www.w3schools.com/sql/),[Aptech Staffing](https://www.aptechstaffing.com/courses/), etc.
