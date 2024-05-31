@@ -41,7 +41,7 @@ In this section I will provide links to my github repositories containing code a
 + Status: Completed in April 2023.
 # Learning SQL
 + Description: SQL queries for tasks from [Codecadamy](https://www.codecademy.com/learn/learn-sql), [w3schools](https://www.w3schools.com/sql/),[Aptech Staffing](https://www.aptechstaffing.com/courses/), etc.
-+ Repository: Check the repository having 400+ SQL queries --> go to repo
++ Repository: Check the repository having 400+ SQL queries --> [go to repo](https://github.com/Chins-10/Learning-SQL)
 + Status: Some of the courses are still in progress.
 # Tableau Dashboards: 
 Some of the dashboards I worked on during my learning --->[go to tableau](https://www.dropbox.com/sh/n65xs2ia2m0t8kq/AAAQXUaAhN0HIG8ypKV884vka?e=1&dl=0)
