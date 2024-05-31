@@ -14,7 +14,7 @@ This repository serves to showcase my skills, share my projects, and track my pr
   - [Tableau Dashboards](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#tableau-dashboards)
   - [Learning R](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#learning-r)
   - [Other Projects](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#other-projects)
-+ Contacts
++ [Contacts](https://github.com/Chins-10/Data-Analyst-Portfolio/blob/main/README.md#contact)
 # Portfolio Projects
 In this section, I will provide a brief overview of data analytics projects, including the technology stack utilized to address each case.
 # Decision Making for Mutual Funds: To Sell or Not Sell
