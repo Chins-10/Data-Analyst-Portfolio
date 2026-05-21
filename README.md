@@ -72,8 +72,8 @@ optimization.
 | Course | Description | Status |
 |---|---|---|
 | [Data Analysis Course](https://github.com/Chins-10/Data-Analysis-Course) | 6-week course covering SQL, Python visualization, data interpretation | ✅ Completed April 2023 |
-| [Learning SQL](https://github.com/Chins-10/Learning-SQL) | 400+ SQL queries from Codecademy, W3Schools, and Aptech Staffing | 🔄 In progress |
-| [Learning R](https://github.com/Chins-10/My-projects) | Data cleaning, manipulation, and visualization with R | 🔄 In progress |
+| [Learning SQL](https://github.com/Chins-10/Learning-SQL) | 400+ SQL queries from Codecademy, W3Schools, and Aptech Staffing | ✅ Completed April 2023 |
+| [Learning R](https://github.com/Chins-10/My-projects) | Data cleaning, manipulation, and visualization with R | ✅ Completed April 2023 |
 | [Other projects](https://github.com/Chins-10/My-projects) | Miscellaneous code snippets and experiments | 🔄 Ongoing |
 
 ---
