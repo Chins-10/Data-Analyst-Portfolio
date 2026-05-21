@@ -34,8 +34,8 @@ optimization.
 | Project | Description | Live |
 |---|---|---|
 | 🎯 CareerAI Enterprise Dashboard | B2B admin dashboard for universities and bootcamps — student onboarding, pipeline tracking, interview prep analytics | [Netlify →](https://careeraienterpriseadmin.netlify.app/) |
-| 📊 CareerAI Stakeholder Report | Pre-sprint strategy document — competitive analysis, sentiment data, QA findings, sprint plan | [GitHub Pages →](https://chins-10.github.io/careerai-stakeholder-report) |
-| 🔍 CareerAI Competitive Analysis | Full competitive analysis with SWOT, feature matrix, sentiment data, and market recommendations | [Repository →](https://github.com/Chins-10/careerai-competitive-analysis) |
+| 📊 CareerAI Stakeholder Report | Pre-sprint strategy document — competitive analysis, sentiment data, QA findings, sprint plan | [GitHub Pages →](https://github.com/Chins-10/CareerAI-competitive-Analysis)) |
+| 🔍 CareerAI Competitive Analysis | Full competitive analysis with SWOT, feature matrix, sentiment data, and market recommendations | [Repository →](https://github.com/Chins-10/CareerAI-competitive-Analysis) |
 
 ---
 
