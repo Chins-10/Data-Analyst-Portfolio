@@ -109,17 +109,17 @@ React · FastAPI · Docker · AWS · CI/CD · REST APIs · Spring Boot · Micros
 
 | Role | Company | Period |
 |---|---|---|
-| Product Manager | CareerAI | Apr 2026 – Present |
-| Business Analyst | Clarksville Department of Electricity | Aug 2023 – Present |
+| Product Owner | CareerAI | Feb 2026 – Present |
+| Technical Product Owner | Clarksville Department of Electricity | Aug 2023 – Present |
 | Software Engineer | Federal Soft Systems | May 2022 – Jul 2023 |
-| Junior Developer | Agility | May 2019 – Jun 2021 |
+| Software Engineer | Agility | May 2020 – Jun 2021 |
 
 ---
 
 ## Education
 
 **University of Texas at Arlington** · Arlington, TX  
-Master of Science, Data Science · Aug 2021 – May 2023
+Master of Science, Data Science 
 
 ---
 
