@@ -125,7 +125,7 @@ Master of Science, Data Science · Aug 2021 – May 2023
 
 ## Contact
 
-📧 chinnu.gvp@gmail.com  
+📧 chinmayeegorugonthu@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/chinmayee-g-99b220195)  
 🌐 [CareerAI](https://silver-sprite-84e615.netlify.app)  
 📊 [Enterprise Dashboard](https://careeraienterpriseadmin.netlify.app)
