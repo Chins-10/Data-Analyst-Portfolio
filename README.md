@@ -1,9 +1,9 @@
 # Venkata Phanisree Chinmayee Gorugonthu
 
-### Technical Product Manager · Data Scientist · Software Engineer
+### Technical Product Owner · Data Engineer · Software Engineer
 
 📍 Clarksville, Tennessee  
-📧 chinnu.gvp@gmail.com  
+📧 chinnmayeegorugonthu@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/chinmayee-g-99b220195)  
 🌐 [CareerAI](https://www.careerai.io/)
 
@@ -11,7 +11,7 @@
 
 ## About me
 
-Technical Product Manager with a strong foundation in data science, machine 
+Technical Product Ownerr with a strong foundation in data science, machine 
 learning, and software engineering. I work at the intersection of user research, 
 product strategy, and technical execution — translating competitive insights and 
 live testing data into roadmaps that ship.
